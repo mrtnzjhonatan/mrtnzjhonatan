@@ -99,4 +99,12 @@ I am actively advancing my cybersecurity knowledge through [Hack The Box Academy
 
 
 ---
+## 🗂️ Projects
 
+### 🎮 [Hangman Game](scripts/hangman-game)
+
+A Pokémon-themed Hangman game built with Python. Demonstrates control flow, ASCII graphics, input validation, and replay functionality.
+
+![Preview](Pokemon-hangman-game-python)
+
+---
