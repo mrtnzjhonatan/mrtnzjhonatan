@@ -69,8 +69,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/mrtnzjhonatan.png" alt="TryHackMe" />
 </p>
 
-Great! Here's a **Markdown snippet** you can directly copy and paste into your existing GitHub `README.md` file — especially if you're already showcasing your **TryHackMe** progress. This will seamlessly extend your cybersecurity portfolio with **Hack The Box Academy** content:
-
 ---
 
 ## 🔐 Hack The Box Academy Progress
