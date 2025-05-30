@@ -92,11 +92,10 @@ I am actively advancing my cybersecurity knowledge through [Hack The Box Academy
 
 | Badge                                                                                           | Description                         |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
-| ![Badge](https://academy.hackthebox.com/achievement/badge/3f8d7d3f-1f83-11f0-864f-bea50ffe6cb4) | Linux Fundamentals Badge            |
-| ![Badge](https://academy.hackthebox.com/achievement/badge/1ee78fba-a337-11ef-864f-bea50ffe6cb4) | Metasploit Framework Badge          |
-| ![Badge](https://academy.hackthebox.com/achievement/badge/a9581364-c408-11ed-acfc-bea50ffe6cb4) | Python 3 Introduction Badge         |
-| ![Badge](https://academy.hackthebox.com/achievement/badge/d790bc89-da70-11ed-acfc-bea50ffe6cb4) | Network Enumeration with Nmap Badge |
+| [Badge](https://academy.hackthebox.com/achievement/badge/3f8d7d3f-1f83-11f0-864f-bea50ffe6cb4) | Linux Fundamentals Badge            |
+| [Badge](https://academy.hackthebox.com/achievement/badge/1ee78fba-a337-11ef-864f-bea50ffe6cb4) | Metasploit Framework Badge          |
+| [Badge](https://academy.hackthebox.com/achievement/badge/a9581364-c408-11ed-acfc-bea50ffe6cb4) | Python 3 Introduction Badge         |
+| [Badge](https://academy.hackthebox.com/achievement/badge/d790bc89-da70-11ed-acfc-bea50ffe6cb4) | Network Enumeration with Nmap Badge |
 
 ---
 
-Let me know if you'd like to generate individual module summaries or if you'd like a customized banner or visuals for your README too.
