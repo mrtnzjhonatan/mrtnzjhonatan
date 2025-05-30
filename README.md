@@ -92,10 +92,13 @@ I am actively advancing my cybersecurity knowledge through [Hack The Box Academy
 
 | Badge                                                                                           | Description                         |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
-| [Badge](https://academy.hackthebox.com/achievement/badge/3f8d7d3f-1f83-11f0-864f-bea50ffe6cb4) | Linux Fundamentals Badge            |
-| [Badge](https://academy.hackthebox.com/achievement/badge/1ee78fba-a337-11ef-864f-bea50ffe6cb4) | Metasploit Framework Badge          |
-| [Badge](https://academy.hackthebox.com/achievement/badge/a9581364-c408-11ed-acfc-bea50ffe6cb4) | Python 3 Introduction Badge         |
-| [Badge](https://academy.hackthebox.com/achievement/badge/d790bc89-da70-11ed-acfc-bea50ffe6cb4) | Network Enumeration with Nmap Badge |
+| [Badge](https://academy.hackthebox.com/achievement/badge/3f8d7d3f-1f83-11f0-864f-bea50ffe6cb4) | Solid Basis - Network Foundations                          |
+| [Badge](https://academy.hackthebox.com/achievement/badge/1ee78fba-a337-11ef-864f-bea50ffe6cb4) | Binary Duo Explorer - two years of learning at HTB Academy |
+| [Badge](https://academy.hackthebox.com/achievement/badge/a9581364-c408-11ed-acfc-bea50ffe6cb4) | PThe eye that sees all - Network Enumeration with Nmap     |
+| [Badge](https://academy.hackthebox.com/achievement/badge/d790bc89-da70-11ed-acfc-bea50ffe6cb4) | Our favorite seabird -  Linux Fundamentals                 |
+| [Badge](https://academy.hackthebox.com/achievement/badge/e64d731f-9d42-11ee-bfb6-bea50ffe6cb4) | Everything is connected -  Introduction to Networking      |
+| [Badge](https://academy.hackthebox.com/achievement/badge/5ba05891-33d9-11ee-acfc-bea50ffe6cb4) | Snake Charmer -  Introduction to Python 3                  |
+
 
 ---
 
