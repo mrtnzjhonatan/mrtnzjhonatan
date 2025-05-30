@@ -60,7 +60,7 @@
 
 ## 📫 Let's Connect
 
-- 🧑‍💼 LinkedIn: *[Add yours here]*
+- 🧑‍💼 LinkedIn: [Jhonatan Martinez](www.linkedin.com/in/jhonatan-martinez-bb3a20116)
 - 💻 GitHub: [@mrtnzjhonatan](https://github.com/mrtnzjhonatan)
 
 ---
