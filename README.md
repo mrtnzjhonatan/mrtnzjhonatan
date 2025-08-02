@@ -20,6 +20,13 @@
 </p>
 ---
 
+## 🏅 Computer Information Systems - AA
+[![Associate of Science](https://github.com/mrtnzjhonatan/certs/blob/main/AS_MSJC_git.png?raw=1)](https://github.com/mrtnzjhonatan/certs/blob/main/AS_MSJC_git.png?raw=1)
+
+
+
+
+
 🛡️ **Cybersecurity Professional** with hands-on experience in offensive and defensive security techniques. Ranked in the **Top 1%** on [TryHackMe](https://tryhackme.com/p/mrtnzjhonatan) with over **215+ rooms completed** and **29+ badges earned**. I specialize in:
 
 - 🔍 Threat Detection & Blue Teaming
@@ -29,14 +36,20 @@
 
 ---
 
-## 🔗 Certifications
-
 - ✅ Jr Penetration Tester *(30h 40m, Completed June 2025)*: [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GHACGHD8EB.pdf)
 - ✅ Security Engineer: [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TDVWAXDPM8.pdf)
 - ✅ Intro to Cyber Security: [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IN1JO2HJBG.pdf)
 - ✅ Pre-Security: [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C6VRJWNIC3.pdf)
 
 ---
+
+## 🔗 Skilling Academies
+
+[![CISA](https://github.com/mrtnzjhonatan/certs/blob/main/Jhonatan_Martinez_Graduate_Certificate.git.png?raw=1)](https://github.com/mrtnzjhonatan/certs/blob/main/Jhonatan_Martinez_Graduate_Certificate.git.png?raw=1)
+
+[![CDIR](https://github.com/mrtnzjhonatan/certs/blob/main/CDIR_Martinez_git.png?raw=1)](https://github.com/mrtnzjhonatan/certs/blob/main/CDIR_Martinez_git.png?raw=1)
+
+[![FCDSA](https://github.com/mrtnzjhonatan/certs/blob/main/FCDSA-Certificate-of-Completion-Jhonatan-Martinez.png?raw=1)](https://github.com/mrtnzjhonatan/certs/blob/main/FCDSA-Certificate-of-Completion-Jhonatan-Martinez.png?raw=1)
 
 ## 🧠 Skills & Tools
 
