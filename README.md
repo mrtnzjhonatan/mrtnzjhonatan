@@ -21,9 +21,6 @@
 
 
 
-🔗 Repository  
-https://github.com/mrtnzjhonatan/aws-vpc-secure-infrastructure
-
 ## 🚀 Featured Projects
 
 ### AWS Secure VPC Infrastructure
@@ -33,7 +30,7 @@ Designed and deployed a segmented AWS network architecture using a VPC, public a
 **Technologies**
 AWS VPC • EC2 • NAT Gateway • Internet Gateway • Route Tables • Network ACLs
 
-![VPC Creation](https://raw.githubusercontent.com/mrtnzjhonatan/screenshots/main/VPC-Creation.png)
+![VPC Creation](https://raw.githubusercontent.com/mrtnzjhonatan/aws-vpc-secure-infrastructure/aws-vpc-architecture.png)
 
 
 🔗 Project Repository  
