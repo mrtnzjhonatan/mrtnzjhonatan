@@ -18,22 +18,8 @@
   <img src="https://img.shields.io/badge/Network+-Certified-lightgrey?style=for-the-badge&logo=comptia" />
   <img src="https://img.shields.io/badge/Cloud+-Certified-blueviolet?style=for-the-badge&logo=comptia" />
 </p>
----
 
-## 🚀 Featured Projects
 
-### AWS Secure VPC Infrastructure
-
-Designed and deployed a segmented AWS network architecture using a VPC, public and private subnets, NAT Gateway, Internet Gateway, route tables, and Network ACL security controls.
-
-🔗 Repository  
-https://github.com/mrtnzjhonatan/aws-vpc-secure-infrastructure
-
-### AWS Secure VPC Infrastructure
-
-![AWS Architecture](https://raw.githubusercontent.com/mrtnzjhonatan/aws-vpc-secure-infrastructure/main/architecture/aws-vpc-architecture.png)
-
-Designed and deployed a segmented AWS network architecture using a VPC, public and private subnets, NAT Gateway, Internet Gateway, route tables, and Network ACL security controls.
 
 🔗 Repository  
 https://github.com/mrtnzjhonatan/aws-vpc-secure-infrastructure
@@ -42,10 +28,13 @@ https://github.com/mrtnzjhonatan/aws-vpc-secure-infrastructure
 
 ### AWS Secure VPC Infrastructure
 
-Cloud network architecture built in AWS demonstrating secure subnet segmentation and controlled internet access.
+Designed and deployed a segmented AWS network architecture using a VPC, public and private subnets, NAT Gateway, Internet Gateway, route tables, and Network ACL security controls.
 
 **Technologies**
 AWS VPC • EC2 • NAT Gateway • Internet Gateway • Route Tables • Network ACLs
+
+![VPC Creation](https://raw.githubusercontent.com/mrtnzjhonatan/screenshots/main/VPC-Creation.png)
+
 
 🔗 Project Repository  
 https://github.com/mrtnzjhonatan/aws-vpc-secure-infrastructure
