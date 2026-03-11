@@ -30,7 +30,7 @@ Designed and deployed a segmented AWS network architecture using a VPC, public a
 **Technologies**
 AWS VPC • EC2 • NAT Gateway • Internet Gateway • Route Tables • Network ACLs
 
-![VPC Creation](https://raw.githubusercontent.com/mrtnzjhonatan/aws-vpc-secure-infrastructure/aws-vpc-architecture.png)
+![aws-vpc-architecture](https://raw.githubusercontent.com/mrtnzjhonatan/aws-vpc-secure-infrastructure/aws-vpc-architecture.png)
 
 
 🔗 Project Repository  
