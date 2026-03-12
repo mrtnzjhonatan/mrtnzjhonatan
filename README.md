@@ -19,6 +19,10 @@ Building hands-on labs in <b>AWS, Cisco networking, and malware traffic analysis
 <h3 align="center">Certifications</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/mrtnzjhonatan/certs/main/certs.png" alt="Professional Certifications" width="600"/>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/CCNA-Certified-blue?style=for-the-badge&logo=cisco"/>
 <img src="https://img.shields.io/badge/Security+-Certified-orange?style=for-the-badge&logo=comptia"/>
 <img src="https://img.shields.io/badge/CySA+-Certified-yellow?style=for-the-badge&logo=comptia"/>
