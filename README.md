@@ -36,7 +36,7 @@ AWS VPC • EC2 • NAT Gateway • Internet Gateway • Route Tables • Networ
 🔗 Project Repository  
 https://github.com/mrtnzjhonatan/aws-vpc-secure-infrastructure
 
-
+---
 
 ### Router-on-a-Stick VLAN Network Lab
 
@@ -57,14 +57,36 @@ This lab demonstrates how Cisco networking can be practiced using **Linux-based 
 🔗 **Project Repository**  
 https://github.com/mrtnzjhonatan/Router-on-a-Stick-VLAN-Network
 
+---
 
+### Network Traffic Analysis – Malware Investigation
 
+![Network Traffic Analysis](https://raw.githubusercontent.com/mrtnzjhonatan/screenshots/main/NetAna.png)
+
+Performed network traffic analysis on a compromised host using **Wireshark** to identify suspicious communications and potential Indicators of Compromise (IoCs).  
+
+The investigation focused on analyzing encrypted HTTPS traffic, inspecting TLS handshake metadata, reviewing DNS query behavior, and identifying command-and-control communication over the **MQTT protocol**.
+
+Key findings included suspicious traffic associated with the **Wikiloader malware family**, including connections to potentially malicious domains and repeated DNS queries indicating persistent external communication.
+
+**Skills Demonstrated**
+
+- Network Traffic Analysis  
+- Wireshark Packet Inspection  
+- Threat Hunting  
+- DNS and TLS Analysis  
+- Identifying Indicators of Compromise (IoCs)
+
+🔗 **Project Repository**  
+[https://github.com/mrtnzjhonatan/network-traffic-analysis](https://github.com/mrtnzjhonatan/Network-Traffic-Analysis)
+
+---
 
 ## 🏅 Computer Information Systems - AA
 [![Associate of Science](https://github.com/mrtnzjhonatan/certs/blob/main/AS_MSJC_git.png?raw=1)](https://github.com/mrtnzjhonatan/certs/blob/main/AS_MSJC_git.png?raw=1)
 
 
-
+---
 
 
 🛡️ **Cybersecurity Professional** with hands-on experience in offensive and defensive security techniques. Ranked in the **Top 1%** on [TryHackMe](https://tryhackme.com/p/mrtnzjhonatan) with over **215+ rooms completed** and **29+ badges earned**. I specialize in:
