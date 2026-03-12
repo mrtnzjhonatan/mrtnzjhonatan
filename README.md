@@ -21,7 +21,7 @@
 
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### AWS Secure VPC Infrastructure
 
@@ -35,6 +35,30 @@ AWS VPC • EC2 • NAT Gateway • Internet Gateway • Route Tables • Networ
 
 🔗 Project Repository  
 https://github.com/mrtnzjhonatan/aws-vpc-secure-infrastructure
+
+
+
+### Router-on-a-Stick VLAN Network Lab
+
+![Router on a Stick Lab](https://raw.githubusercontent.com/mrtnzjhonatan/screenshots/main/linux-roas.png)
+
+Designed and implemented a **Router-on-a-Stick network topology** to enable inter-VLAN communication between segmented networks.  
+This lab demonstrates how Cisco networking can be practiced using **Linux-based tools** such as Dynamips, Dynagen, and VPCS without requiring physical hardware.
+
+**Key concepts demonstrated:**
+
+- VLAN segmentation
+- Inter-VLAN routing
+- 802.1Q trunk configuration
+- Router subinterfaces
+- Layer 2 and Layer 3 connectivity troubleshooting
+- Cisco router and switch configuration in a Linux environment
+
+🔗 **Project Repository**  
+https://github.com/mrtnzjhonatan/Router-on-a-Stick-VLAN-Network
+
+
+
 
 ## 🏅 Computer Information Systems - AA
 [![Associate of Science](https://github.com/mrtnzjhonatan/certs/blob/main/AS_MSJC_git.png?raw=1)](https://github.com/mrtnzjhonatan/certs/blob/main/AS_MSJC_git.png?raw=1)
