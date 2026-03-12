@@ -1,22 +1,34 @@
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/mrtnzjhonatan.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/mrtnzjhonatan.png" alt="TryHackMe Badge" />
 </p>
+
 <h1 align="center">Hi, I'm Jhonatan Martinez 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-brightgreen?style=for-the-badge&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/Rank-8215-blue?style=for-the-badge&logo=podium" />
-  <img src="https://img.shields.io/badge/Rooms_Completed-219-purple?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Badges_Earned-30-yellow?style=for-the-badge&logo=bookstack" />
-  <img src="https://img.shields.io/badge/Jr%20Pentester-Certified-red?style=for-the-badge&logo=tryhackme" />
+Cybersecurity | Network Security | Cloud Security
 </p>
+
 <p align="center">
-    <img src="https://img.shields.io/badge/CCNA-Certified-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Security+-Certified-orange?style=for-the-badge&logo=comptia" />
-  <img src="https://img.shields.io/badge/CySA+-Certified-yellow?style=for-the-badge&logo=comptia" />
-  <img src="https://img.shields.io/badge/PenTest+-Certified-red?style=for-the-badge&logo=comptia" />
-  <img src="https://img.shields.io/badge/Network+-Certified-lightgrey?style=for-the-badge&logo=comptia" />
-  <img src="https://img.shields.io/badge/Cloud+-Certified-blueviolet?style=for-the-badge&logo=comptia" />
+Building hands-on labs in <b>AWS, Cisco networking, and malware traffic analysis</b>
+</p>
+
+<br>
+
+
+
+<h3 align="center">Certifications</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/CCNA-Certified-blue?style=for-the-badge&logo=cisco"/>
+<img src="https://img.shields.io/badge/Security+-Certified-orange?style=for-the-badge&logo=comptia"/>
+<img src="https://img.shields.io/badge/CySA+-Certified-yellow?style=for-the-badge&logo=comptia"/>
+<img src="https://img.shields.io/badge/PenTest+-Certified-red?style=for-the-badge&logo=comptia"/>
+<img src="https://img.shields.io/badge/Network+-Certified-lightgrey?style=for-the-badge&logo=comptia"/>
+<img src="https://img.shields.io/badge/Cloud+-Certified-blueviolet?style=for-the-badge&logo=comptia"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/CEH-Certified-red?style=for-the-badge&logo=ec-council"/>
+
+
 </p>
 
 
