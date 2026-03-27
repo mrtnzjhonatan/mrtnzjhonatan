@@ -39,24 +39,31 @@ Building hands-on labs in <b>AWS, Cisco networking, and malware traffic analysis
 
 ## Featured Projects
 
-### AWS Secure VPC Infrastructure
+---
 
-Designed and deployed a segmented AWS network architecture using a VPC, public and private subnets, NAT Gateway, Internet Gateway, route tables, and Network ACL security controls.
+## 🔐 Linux Privilege Escalation – Insecure Sudo
 
-**Technologies**
-AWS VPC • EC2 • NAT Gateway • Internet Gateway • Route Tables • Network ACLs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrtnzjhonatan/linux-privilege-escalation-sudo/main/privesc.png" width="600"/>
+</p>
 
-![AWS VPC Architecture](https://raw.githubusercontent.com/mrtnzjhonatan/aws-vpc-secure-infrastructure/main/aws-vpc-architecture.png)
+Identified and exploited insecure sudo configurations to escalate privileges to root on a Linux system.
 
+- Analyzed `/etc/sudoers` for misconfigured NOPASSWD permissions  
+- Abused the `less` binary to execute shell commands  
+- Successfully gained root shell access  
+- Demonstrated impact of improper privilege management  
 
-🔗 Project Repository  
-https://github.com/mrtnzjhonatan/aws-vpc-secure-infrastructure
+🔗 **Project Repository**  
+https://github.com/mrtnzjhonatan/linux-privilege-escalation-sudo
 
 ---
 
 ### Router-on-a-Stick VLAN Network Lab
 
-![Router on a Stick Lab](https://raw.githubusercontent.com/mrtnzjhonatan/screenshots/main/linux-roas.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrtnzjhonatan/screenshots/main/linux-roas.png" width="600"/>
+</p>
 
 Designed and implemented a **Router-on-a-Stick network topology** to enable inter-VLAN communication between segmented networks.  
 This lab demonstrates how Cisco networking can be practiced using **Linux-based tools** such as Dynamips, Dynagen, and VPCS without requiring physical hardware.
@@ -77,7 +84,9 @@ https://github.com/mrtnzjhonatan/Router-on-a-Stick-VLAN-Network
 
 ### Network Traffic Analysis – Malware Investigation
 
-![Network Traffic Analysis](https://raw.githubusercontent.com/mrtnzjhonatan/screenshots/main/NetAna.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrtnzjhonatan/screenshots/main/NetAna.png" width="600"/>
+</p>
 
 Performed network traffic analysis on a compromised host using **Wireshark** to identify suspicious communications and potential Indicators of Compromise (IoCs).  
 
@@ -95,6 +104,23 @@ Key findings included suspicious traffic associated with the **Wikiloader malwar
 
 🔗 **Project Repository**  
 [https://github.com/mrtnzjhonatan/network-traffic-analysis](https://github.com/mrtnzjhonatan/Network-Traffic-Analysis)
+
+---
+
+### AWS Secure VPC Infrastructure
+
+Designed and deployed a segmented AWS network architecture using a VPC, public and private subnets, NAT Gateway, Internet Gateway, route tables, and Network ACL security controls.
+
+**Technologies**
+AWS VPC • EC2 • NAT Gateway • Internet Gateway • Route Tables • Network ACLs
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrtnzjhonatan/aws-vpc-secure-infrastructure/main/aws-vpc-architecture.png" width="600"/>
+</p>
+
+
+🔗 Project Repository  
+https://github.com/mrtnzjhonatan/aws-vpc-secure-infrastructure
 
 ---
 
